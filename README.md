@@ -31,6 +31,7 @@ Para rodar esse projeto em sua máquina local, é preciso ter instalado o *Node*
 ```
 Backend_Django > Django_Admin > settings > development.py
 ```
+![Preencha os espaços vazios com suas informações pessoais](https://user-images.githubusercontent.com/111741554/222181931-ff1ac397-2c84-4ebc-9ace-048a2246a527.png)
 
 ## Vídeos
 
@@ -38,12 +39,24 @@ Nesta última seção, anexamos alguns vídeos da aplicação rodando em nossa m
 
 ### CRUD de Professores
 
+https://user-images.githubusercontent.com/111741554/222182101-0a05e6a7-a82a-401b-8c07-7eb9ec86f45c.mp4
+
 ### CRUD de Cursos
+
+https://user-images.githubusercontent.com/111741554/222182182-522fed0c-ef1c-41d6-be4b-2bab08a91b47.mp4
 
 ### Responsividade do template
 
+https://user-images.githubusercontent.com/111741554/222182236-9044d6c4-31d4-4d39-8787-cbfc2c720ceb.mp4
+
 ### Conexão 3G Lenta
+
+https://user-images.githubusercontent.com/111741554/222182304-910cb051-6e39-4293-b2c1-8e8896f97c0f.mp4
 
 ### CRUD de Estudantes com Conexão 3G Lenta
 
+https://user-images.githubusercontent.com/111741554/222182366-bdca4b68-9f79-406a-b19f-8888215d9fd7.mp4
+
 ### CRUD de Responsáveis
+
+https://user-images.githubusercontent.com/111741554/222182430-4918ee67-e8ac-4c3f-a9ac-e279a2d58db4.mp4
